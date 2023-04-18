@@ -286,5 +286,5 @@ public class Game  {
 	}
 	public static void main(String[] args) throws IOException {
 		Game rockPaperScissors = new Game();
-	}
+	} 
 }
